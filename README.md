@@ -2,7 +2,7 @@
 
 [![NuGet](https://buildstats.info/nuget/Xam.Plugins.Forms.CustomReturnEntry)](https://www.nuget.org/packages/Xam.Plugins.Forms.CustomReturnEntry/)
 
-This SDK was [officially merged into Xamarin.Forms v3.1.0](https://devblogs.microsoft.com/xamarin/xamarin-forms-3-1-improvments?WT.mc_id=entrycustomreturnplugin-github-bramin).
+This SDK was [officially merged into Xamarin.Forms v3.1.0](https://devblogs.microsoft.com/xamarin/xamarin-forms-3-1-improvments?WT.mc_id=mobile-0000-bramin).
 
 Because this SDK supports Xamarin.Forms v2.5.0.280555, I will continue to maintain it for teams who have not yet upgraded to Xamarin.Forms v3.1.0 or higher.
 
